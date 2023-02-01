@@ -1,0 +1,6 @@
+framework module JFDevKit {
+  umbrella header "JFDevKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

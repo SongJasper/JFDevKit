@@ -1,0 +1,22 @@
+{
+  "name": "JFDevKit",
+  "version": "0.1.0",
+  "summary": "A short description of JFDevKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1334775003@qq.com/JFDevKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1334775003@qq.com": "songjinfeng@luculent.net"
+  },
+  "source": {
+    "git": "https://github.com/1334775003@qq.com/JFDevKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "JFDevKit/Classes/**/*"
+}
